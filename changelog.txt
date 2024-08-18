@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-08-18
+  Changes:
+    - from stronger explosive to physical projectile damage and use cannon-shell value (it's a buff and it was making more sense since it's physical damage first like canon shell)
